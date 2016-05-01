@@ -5,7 +5,7 @@ import org.joda.time.DateTime;
 
 import java.sql.*;
 import javax.sql.DataSource;
-
+//http://www.mkyong.com/spring/maven-spring-jdbc-example/
 public class SeatDaoImpl implements SeatDao{
 
     private DataSource dataSource;
